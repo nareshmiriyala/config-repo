@@ -1,7 +1,7 @@
 spring.jpa.hibernate.ddl-auto:"none"
 spring.datasource.url:"jdbc:h2:mem:licenseDb"
 spring.datasource.username:"sa"
-spring.datasource.password:"sa"
+spring.datasource.password:"{cipher}967AQBFWs9OW8iVM0UK24NKwZ9TdzBXB1v91YIfUXK9aqgH0a+a2LtDg9RP3l+MnM3DNGxxrFW2kK3uPId6GsKRKiYxXOORenn3VHpfblvMYpxnVhUWCTQ8oU4D08JmkutsvxtebhHWuwdL2i4axJWfQSJlD/6CIoIp31OBxvdq86x6oBt04zexAbp32Ksdcd7eaS24/CRMlrSe9SA7zfAHqmwHUkbSu5WLUdnWX7xnR3x1RW72HwTrglzfjeOscHkJg9emqQWv01ulwr80h83nlBjAzJqIbh68fPG61s8QXFhN/qdUbRGtSaNfixzZ3HH8LgDe4uZE52+NtfNXMF9e49zWKoS2/5fMQloqHPY+8OTXPZrUaxjShvMRRhAA3Ka0lc4="
 spring.datasource.driverClassName:"org.h2.Driver"
 server.port:"9031"
 test.property:"test"
