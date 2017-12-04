@@ -5,4 +5,4 @@ spring.datasource.password:'{cipher}AQBO5nufyvzpXIL9kqcrnwoxjP0R3hBA+BedJb4mAHek
 spring.datasource.driverClassName:"org.h2.Driver"
 server.port:"9031"
 test.property:"test"
-example.property:"test"
+example.property: "I AM THE DEFAULT"
